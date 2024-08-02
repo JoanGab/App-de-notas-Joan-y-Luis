@@ -11,5 +11,7 @@ La aplicación de notas proporciona una interfaz sencilla y efectiva para la ges
 Tecnologias Utilizadas
 
 Kotlin
+
 Jetpack Compose
+
 Material Design
