@@ -1,4 +1,4 @@
-Joan Guerrero Marte y Luis Genao Gil.
+Joan Guerrero Marte 2019-1058 / Luis Genao Gil 2019-0883
 
 
 Caracteristicas de nuestra app de notas
